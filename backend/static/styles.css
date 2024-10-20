@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 50px;
+}
+
+input {
+    width: 80%;
+    padding: 10px;
+    margin: 20px 0;
+}
+
+button {
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+#message {
+    margin-top: 20px;
+    color: red;
+}
